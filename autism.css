@@ -1,0 +1,9 @@
+.para-1{
+  margin: 5%;
+scroll-behavior: smooth;
+border-style: hidden;
+
+}
+.div.para-1{
+  scrollbar-width: 8px;
+}
